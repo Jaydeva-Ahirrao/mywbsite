@@ -1,3 +1,15 @@
 .container {
-    align-self: flex-end;
+    max-width: fit-content;
+    margin-inline: auto;
+}
+
+img {
+    width: auto;
+    height: 500px;
+}
+
+h1,
+p {
+    text-align: center;
+    /*padding: 5px;*/
 }
